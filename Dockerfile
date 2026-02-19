@@ -5,7 +5,8 @@
 #
 # Maintained & Updated by:
 # Dhanpal Sharma
-# GitHub: https://github.com/LastPerson07
+# GitHub: https://github.com/abhinai2244/SAVE-RESTRICT-BOT.git
+cd SAVE-RESTRICT-BOT
 # ========================================================
 
 FROM python:3.10.13-slim-bullseye
@@ -40,5 +41,6 @@ CMD ["python3", "bot.py"]
 # Telegram Channel @cantarellabots
 #
 # Updated & Managed by:
-# Dhanpal Sharma | https://github.com/LastPerson07
+# Dhanpal Sharma | https://github.com/abhinai2244/SAVE-RESTRICT-BOT.git
+cd SAVE-RESTRICT-BOT
 # ========================================================
